@@ -17,5 +17,5 @@ Using a stm32f401ccu microcontroller based on an ARM cortex M4 (black pill kit).
 
 Project video: https://lnkd.in/eqVn7fBx
 
-read Software_Architecture.png and connection.png to gain more info about this project.
+read FlowChart.pdf Software_Architecture.png and connection.png to gain more info about this project.
 
